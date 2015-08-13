@@ -1,7 +1,7 @@
 Cordova Cookies Plugin
 =======
 
-Cordova plugin that allows you to clear cookies of the webview. 
+Cordova plugin that allows you to clear cookies of the webview. This plugin is a fork of https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git
 
 ## Installation
 
