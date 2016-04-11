@@ -6,7 +6,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 
 import android.util.Log;
-import org.xwalk.core.internal.XWalkCookieManager;
+import org.xwalk.core.XWalkCookieManager;
 
 public class Cookies extends CordovaPlugin {
     private final String TAG = "CookiesPlugin";
